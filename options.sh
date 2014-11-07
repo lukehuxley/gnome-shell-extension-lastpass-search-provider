@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export LPASS_DISABLE_PINENTRY=1
+#VAULT_PASSWORD=

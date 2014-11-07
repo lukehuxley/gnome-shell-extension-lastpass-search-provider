@@ -1,0 +1,10 @@
+{
+  "description": "Search LastPass entries using LastPass CLI",
+  "name": "LastPass Search Provider",
+  "shell-version": [
+    "3.10"
+  ],
+  "url": "http://www.lukehuxley.com/",
+  "uuid": "lastpass-search-provider@lukehuxley.com",
+  "version": 1
+}
